@@ -17,4 +17,6 @@
   <img align="center" alt="camillo-gcp" height="30" width="40" src="https://simpleicons.org/icons/googlecloud.svg">
   <img align="center" alt="camillo-aws" height="30" width="40"  src="https://simpleicons.org/icons/amazonaws.svg">
   <img align="center" alt="camillo-azu" height="30" width="40"  src="https://simpleicons.org/icons/microsoftazure.svg">
+  <img align="center" alt="camillo-azu" height="30" width="40"  src="https://simpleicons.org/icons/gnubash.svg">
 </div>
+
