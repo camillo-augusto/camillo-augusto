@@ -10,6 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillo-augusto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+##
+  
 <div align="center">
   <img align="center" alt="camillo-gcp" height="30" width="40" src="https://simpleicons.org/icons/terraform.svg">
   <img align="center" alt="camillo-gcp" height="30" width="40" src="https://simpleicons.org/icons/googlecloud.svg">
