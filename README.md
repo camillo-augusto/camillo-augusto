@@ -20,3 +20,5 @@
   <img align="center" alt="camillo-azu" height="30" width="40"  src="https://simpleicons.org/icons/gnubash.svg">
 </div>
 
+  
+  ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=camillo-augusto)
